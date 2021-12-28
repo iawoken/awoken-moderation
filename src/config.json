@@ -1,0 +1,85 @@
+{
+  "Import": {
+    "Moderation": {
+      "Token": ""
+    },
+    "Supervisor": {
+      "Token": ""
+    },
+    "Owners": ["355742603691687937", "282238108739567647"],
+    "MongooseURL": "x",
+    "Presence": {
+      "name": "Awoken <3 ibidi",
+      "type": "WATCHING",
+      "status": "dnd"
+    }
+  },
+  "Guild": {
+    "Prefixes": ["!", "."],
+    "GuildID": "",
+    "Settings": {
+      "TagIntake": false,
+      "NameAge": true
+    },
+    "Rules": "826012868536696852",
+    "Welcome": "824644105934077990"
+  },
+  "VoiceLog": {
+    "id": "webhook id",
+    "token": "webhook token"
+  },
+  "TagLog": {
+    "id": "webhook id",
+    "token": "webhook token"
+  },
+  "MsgLog": {
+    "id": "webhook id",
+    "token": "webhook token"
+  },
+  "Logs": {
+    "CezaPuanLog": "",
+    "MapusLog": "",
+    "MuteLog": "",
+    "VMuteLog": "",
+    "BanLog": ""
+  },
+  "Tags": {
+    "OrjTag": "A",
+    "FakeTag": "B",
+    "TagRoles": ""
+  },
+  "CezaRoles": {
+    "MuteRoles": "",
+    "JailRoles": "",
+    "Karantina": ""
+  },
+  "Voice": {
+    "Parents": {
+      "register": "",
+      "public": "",
+      "secret": "",
+      "alone": "",
+      "other": ""
+    }
+  },
+  "React": {
+    "star": "emoji id",
+    "tik": "emoji id",
+    "iptal": "emoji id",
+    "cmute": "emoji id",
+    "vmute": "emoji id"
+  },
+  "Perms": {
+    "Commander": [],
+    "Register": [],
+    "Mute": [],
+    "Jail": [],
+    "KickBan": []
+  },
+  "Roles": {
+    "Booster": "",
+    "Erkek": [""],
+    "Kız": [""],
+    "Unregister": [""]
+  }
+}
